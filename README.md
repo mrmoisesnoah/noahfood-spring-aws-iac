@@ -3,7 +3,7 @@
 # Sobre o projeto
 Projeto utilizado **Microsserviços: IaC com CDK e deploy na AWS**  onde o objetivo é pegar o microsserviço de Pedidos do NoahFood e fazer deploy na AWS, incluindo os componentes e recursos necessários para tal, como:
 
-* Inclusão de uma VPC (Virtual Private Cloud);
+* VPC (Virtual Private Cloud);
 * Cluster;
 * Serviço e Task Definition;
 * Banco de dados MySQL no RDS;
